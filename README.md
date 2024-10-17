@@ -1,7 +1,7 @@
 # Grado en Ingeniería Informática
 ## Asignatura Bases de Datos Avanzadas
 ### Profesor: [D. Jesús Pérez Melero](https://www.linkedin.com/in/jesusperezmelero/)
-### PER XXXXX - [Código de apoyo y ejercicios](https://github.com/UnirCs/BBDDA-GLOBAL).
+### PER 10373 Y 10374 - [Código de apoyo y ejercicios](https://github.com/UnirCs/BBDDA-GLOBAL).
 
 
 Usaremos este repositorio para nuestro trabajo colaborativo a través del curso.
